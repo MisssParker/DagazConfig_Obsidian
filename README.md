@@ -17,7 +17,7 @@ This is built on top of free and open-source software that others have already c
     
 ## 🛠 Orchestration Scripts
 
-### `Master-Create-Object_Templater_Script.js`
+### `Master-Create-Object.js`
 * **Type:** Templater User Script / MetaBind Action
 * **Role:** Primary intake engine for generating architecture-compliant notes across all four quadrants.
 * **Key Features:**
