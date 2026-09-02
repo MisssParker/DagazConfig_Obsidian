@@ -9,6 +9,7 @@
  * 
  * DEPENDENCIES:
  * - Obsidian Plugins: Templater, TaskNotes, Dataview, MetaBind (optional trigger)
+ * - Config tasknotes to identify tasks via property > quadrant > "Actions"
  * 
  * WORKFLOW:
  * 1. Prompts for Quadrant (Actions, Nodes, Inventory, Information).
